@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **shafi020629@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/shafiuddin-yusof-608595269/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
