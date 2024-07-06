@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **https://www.linkedin.com/in/shafiuddin-yusof-608595269/**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/shafiuddin-yusof-608595269/">Connect with me on LinkedIn</a>  <i class="fa fa-linkedin"></i>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
