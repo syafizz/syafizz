@@ -1,4 +1,4 @@
-![Header](./avatar.png)
+**![Header](./avatar.png)
 <h3 align="center">Hi 👋, I'm Shafiuddin</h3>
 <h3 align="center">A passionate Technology from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlwZDZsbTQ2ZmQxb2QyNXp2N3BxbzNraXUydGNqbnk3YjdhYnB0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syafizz&show_icons=true&locale=en" alt="syafizz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syafizz&" alt="syafizz" /></p>
+**
